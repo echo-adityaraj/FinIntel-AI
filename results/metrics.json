@@ -1,0 +1,21 @@
+{
+  "corpus": "starter",
+  "retrieval": "tfidf",
+  "generation": "extractive",
+  "threshold": 0.2,
+  "test_count": 44,
+  "development_count": 20,
+  "metrics": {
+    "Recall@1": 0.96875,
+    "Recall@3": 1,
+    "Recall@5": 1,
+    "Recall@10": 1,
+    "MRR@10": 0.9791666666666666,
+    "Expected fragment match": 0.9375,
+    "Relevant citation rate": 0.9375,
+    "Unsupported refusal rate": 1,
+    "Answerable response rate": 0.96875,
+    "Mean latency (seconds)": 0.0002747727272727273,
+    "Verbatim evidence rate": 1
+  }
+}

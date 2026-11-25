@@ -1,0 +1,65 @@
+question_id,question,relevant_id,expected_fragment,answerable,split
+q001,What is the Consumer Duty standard of care?,principle,good customer outcomes,true,development
+q002,What should firms put at the centre of their conduct?,principle,good customer outcomes,true,test
+q003,What is the main objective of the Consumer Duty?,principle,good customer outcomes,true,test
+q004,What are the three cross-cutting obligations?,cross_rules,foreseeable harm,true,development
+q005,What harm should firms prevent under the cross-cutting rules?,cross_rules,foreseeable harm,true,test
+q006,Which obligations cover fair conduct and financial objectives?,cross_rules,foreseeable harm,true,test
+q007,What are the four Consumer Duty outcomes?,outcomes,consumer support,true,development
+q008,List the outcomes including price and value.,outcomes,consumer support,true,test
+q009,Which four areas make up the Consumer Duty outcomes?,outcomes,consumer support,true,test
+q010,What should firms do about their intended target market?,target,target market,true,development
+q011,How should products be designed and reviewed?,target,target market,true,test
+q012,What should firms identify when designing suitable products?,target,target market,true,test
+q013,How should communications be presented to customers?,communication,clear and timely,true,development
+q014,Should firms test whether information is understood?,communication,clear and timely,true,test
+q015,What makes customer communications accessible?,communication,clear and timely,true,test
+q016,When did the rules originally apply to products available for sale or renewal?,dates_open,31 July 2023,true,development
+q017,What was the implementation date for open products?,dates_open,31 July 2023,true,test
+q018,When were existing products available for sale covered?,dates_open,31 July 2023,true,test
+q019,When did the rules apply to closed products?,dates_closed,31 July 2024,true,development
+q020,What was the implementation date for closed products and services?,dates_closed,31 July 2024,true,test
+q021,When were closed services originally covered?,dates_closed,31 July 2024,true,test
+q022,How should firms consider people in vulnerable circumstances?,vulnerability,vulnerable circumstances,true,development
+q023,Which customer characteristics should firms consider throughout the journey?,vulnerability,vulnerable circumstances,true,test
+q024,What customer needs and behaviour matter throughout the customer journey?,vulnerability,vulnerable circumstances,true,test
+q025,What must firms demonstrate about customer outcomes?,monitor,demonstrate,true,development
+q026,Do firms need evidence that good outcomes are achieved?,monitor,demonstrate,true,test
+q027,How should firms monitor whether outcomes are being achieved?,monitor,demonstrate,true,test
+q028,What is fair value?,value,reasonable,true,development
+q029,How does the amount paid relate to product benefits?,value,reasonable,true,test
+q030,When is the price reasonable for a retail customer?,value,reasonable,true,test
+q031,What are manufacturer obligations for value assessment?,assessment,review,true,development
+q032,How often should manufacturers review value assessments?,assessment,review,true,test
+q033,Should manufacturers assess value for the intended retail market?,assessment,review,true,test
+q034,What is the consumer support outcome about?,support_lifecycle,customer relationship,true,development
+q035,What support should people receive throughout the customer relationship?,support_lifecycle,customer relationship,true,test
+q036,How should service help customers benefit from purchases?,support_lifecycle,customer relationship,true,test
+q037,Which rules and guidance cover consumer support?,support_rules,PRIN 2A.6,true,development
+q038,Which FG22/5 chapter concerns consumer support?,support_rules,Chapter 9,true,test
+q039,What provisions does the support review identify?,support_rules,PRIN 2A.6,true,test
+q040,Should fair value be considered on its own?,interrelated,other Consumer Duty outcomes,true,development
+q041,How do other Consumer Duty outcomes affect fair value?,interrelated,other Consumer Duty outcomes,true,test
+q042,How does ongoing support relate to customer value?,interrelated,other Consumer Duty outcomes,true,test
+q043,What did the 2024 Financial Lives Survey report about limited understanding?,literacy,12%,true,development
+q044,What percentage of adults had limited understanding of financial products?,literacy,12%,true,test
+q045,How many adults had low confidence with basic numeracy?,literacy,10.3 million,true,test
+q046,Which provisions cover product governance?,product_rules,PRIN 2A.3,true,development
+q047,Which FG22/5 chapter sets product governance expectations?,product_rules,Chapter 6,true,test
+q048,What Consumer Duty rules cover product governance?,product_rules,PRIN 2A.3,true,test
+q049,Who won the 2022 FIFA World Cup?,,,false,development
+q050,What is the capital of Japan?,,,false,test
+q051,What is the current Bitcoin price?,,,false,test
+q052,What will interest rates be next year?,,,false,test
+q053,What is my bank account balance?,,,false,development
+q054,How do I bake sourdough bread?,,,false,test
+q055,What is the formula for photosynthesis?,,,false,test
+q056,What is the weather in London?,,,false,test
+q057,Who is the current prime minister?,,,false,development
+q058,What is the exact fine for breaching Consumer Duty?,,,false,test
+q059,What is the current FCA authorisation fee?,,,false,test
+q060,What tax rate applies to my personal savings?,,,false,test
+q061,What is the maximum compensation under the FSCS?,,,false,development
+q062,What is the mandatory number of days to resolve a complaint?,,,false,test
+q063,Which stock should I buy tomorrow?,,,false,test
+q064,What is the minimum capital requirement for a bank?,,,false,test

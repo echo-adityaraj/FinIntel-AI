@@ -1,0 +1,18 @@
+{
+  "corpus": "pdf",
+  "retrieval": "tfidf",
+  "generation": "extractive",
+  "test_count": 10,
+  "note": "Exploratory PDF smoke benchmark; not independent or exhaustive. Page matches and fragments do not establish groundedness.",
+  "metrics": {
+    "Page hit@1": 0.42857142857142855,
+    "Page hit@3": 0.42857142857142855,
+    "Page hit@5": 0.7142857142857143,
+    "Page hit@10": 0.8571428571428571,
+    "Expected fragment match": 0.8571428571428571,
+    "Labelled citation page match": 0.7142857142857143,
+    "Unsupported refusal rate": 1,
+    "Answerable response rate": 0.8571428571428571,
+    "Mean latency (seconds)": 0.0789848
+  }
+}

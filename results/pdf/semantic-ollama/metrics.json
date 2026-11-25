@@ -1,0 +1,18 @@
+{
+  "corpus": "pdf",
+  "retrieval": "semantic",
+  "generation": "ollama",
+  "test_count": 10,
+  "note": "Exploratory PDF smoke benchmark; not independent or exhaustive. Page matches and fragments do not establish groundedness.",
+  "metrics": {
+    "Page hit@1": 0.5714285714285714,
+    "Page hit@3": 0.7142857142857143,
+    "Page hit@5": 1,
+    "Page hit@10": 1,
+    "Expected fragment match": 1,
+    "Labelled citation page match": 0.8571428571428571,
+    "Unsupported refusal rate": 1,
+    "Answerable response rate": 1,
+    "Mean latency (seconds)": 3.0175004
+  }
+}

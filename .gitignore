@@ -1,0 +1,50 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+data/raw/*.pdf
+.DS_Store
+__MACOSX/
+*.zip
+.env.*
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# ZIP archives
+*.zip
+
+# Original FCA PDF documents
+data/raw/*.pdf
+
+# Temporary execution logs
+*.log
+results/*.txt
+
+# PDF evaluation excerpts
+results/pdf/*/evaluation_results.csv
+
+# Model caches
+.cache/
+huggingface/
+
+# IDE settings
+.vscode/
+.idea/
